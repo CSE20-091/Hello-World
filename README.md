@@ -1,2 +1,2 @@
 # Hello-World
-My first GitHub pages
+My first GitHub page repository
